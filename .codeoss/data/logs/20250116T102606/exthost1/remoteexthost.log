@@ -1,0 +1,21 @@
+2025-01-16 10:26:28.906 [info] Extension host with pid 1224 started
+2025-01-16 10:26:28.929 [info] Lock '/home/thomchoice/.codeoss/data/User/workspaceStorage/-330aad76/vscode.lock': Lock acquired.
+2025-01-16 10:26:29.369 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-16 10:26:29.631 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-16 10:26:29.854 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-16 10:26:29.855 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-16 10:26:30.304 [info] Eager extensions activated
+2025-01-16 10:26:30.305 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 10:26:30.306 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 10:26:30.306 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2025-01-16 10:26:30.307 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 10:26:30.307 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 10:26:31.830 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-16 10:26:34.472 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 10:26:34.472 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 10:26:34.474 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-16 10:26:57.594 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onCommand:python.createNewFile'
+2025-01-16 10:26:58.340 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:286:19)
+    at onErrorNT (node:internal/child_process:484:16)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)

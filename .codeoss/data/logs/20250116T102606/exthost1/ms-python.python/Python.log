@@ -1,0 +1,31 @@
+2025-01-16 10:26:59.356 [warning] Dir "/home/thomchoice/.pixi/envs" is not watchable (directory does not exist)
+2025-01-16 10:26:59.356 [info] Starting Environment refresh
+2025-01-16 10:26:59.356 [info] Searching for interpreters in posix paths locator
+2025-01-16 10:26:59.356 [info] Searching for pyenv environments
+2025-01-16 10:26:59.356 [info] Searching for conda environments
+2025-01-16 10:26:59.356 [info] Searching for global virtual environments
+2025-01-16 10:26:59.356 [info] Searching for custom virtual environments
+2025-01-16 10:26:59.356 [info] pyenv is not installed
+2025-01-16 10:26:59.356 [info] Finished searching for pyenv environments: 33 milliseconds
+2025-01-16 10:26:59.356 [info] Finished searching for custom virtual envs: 33 milliseconds
+2025-01-16 10:26:59.356 [info] > conda info --json
+2025-01-16 10:26:59.356 [info] > hatch env show --json
+2025-01-16 10:26:59.356 [info] cwd: .
+2025-01-16 10:26:59.356 [info] > pyenv which python
+2025-01-16 10:26:59.356 [info] cwd: .
+2025-01-16 10:26:59.356 [info] Finished searching for global virtual envs: 70 milliseconds
+2025-01-16 10:26:59.357 [info] Found: /bin/python --> /bin/python3.12
+2025-01-16 10:26:59.358 [info] Found: /bin/python3 --> /bin/python3.12
+2025-01-16 10:26:59.359 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-01-16 10:26:59.374 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-01-16 10:26:59.374 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-01-16 10:26:59.374 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-01-16 10:26:59.409 [info] Finished searching for interpreters in posix paths locator: 127 milliseconds
+2025-01-16 10:26:59.410 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-01-16 10:26:59.428 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-01-16 10:26:59.428 [info] Environments refresh paths discovered (event): 153 milliseconds
+2025-01-16 10:26:59.429 [info] Environments refresh paths discovered: 154 milliseconds
+2025-01-16 10:26:59.498 [info] Environments refresh finished (event): 223 milliseconds
+2025-01-16 10:26:59.510 [info] Environment refresh took 235 milliseconds
+2025-01-16 10:26:59.518 [info] Python interpreter path: /bin/python
+2025-01-16 10:27:01.795 [info] Starting Jedi language server for thomchoice.
